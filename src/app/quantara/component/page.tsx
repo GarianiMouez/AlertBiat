@@ -11,12 +11,12 @@ export const metadata: Metadata = {
   },
 };
 
-const Terminal = () => {
+const QuantaraComponent = () => {
   return (
     <DefaultLayout>
-      <Breadcrumb pageName="Terminal" />
+      <Breadcrumb pageName="Composants" pageTitle="Quantara" />
     </DefaultLayout>
   );
 };
 
-export default Terminal;
+export default QuantaraComponent;

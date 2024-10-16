@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const Terminal = () => {
   return (
     <DefaultLayout>
-      <Breadcrumb pageName="Terminal" />
+      <Breadcrumb pageName="Terminal" pageTitle="Quantara" />
     </DefaultLayout>
   );
 };
